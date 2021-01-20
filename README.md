@@ -39,4 +39,4 @@ https://blog.csdn.net/q851579181q
 
 
 
-![img](README.assets/clipboard.png)
+<img src="README.assets/clipboard.png" alt="img" style="zoom: 50%;" />
